@@ -1,0 +1,27 @@
+{
+  "name": "prework-about-me",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.16.x"
+  },
+  "description": "* This website is a static HTML website using semantic tags and minimal CSS.  * It is currently hosted on Github Pages.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiLiubarets/prework-about-me.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiLiubarets/prework-about-me/issues"
+  },
+  "homepage": "https://github.com/DiLiubarets/prework-about-me#readme"
+}
